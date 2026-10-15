@@ -1,0 +1,11 @@
+tools:
+  - nodejs_22
+apps:
+  web:
+    port: 3090
+    routes:
+      - path: /
+    setup:
+      - npm install
+    startup:
+      - npm run dev -- --host 0.0.0.0
