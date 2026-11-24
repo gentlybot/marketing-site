@@ -31,3 +31,4 @@ npm run check    # lint + format with Biome
 All copy lives in [`src/lib/site.ts`](src/lib/site.ts) — brand name, navigation,
 features, pricing, FAQs, and testimonials. Edit it there and every page updates.
 See [AGENTS.md](AGENTS.md) for the full structure.
+Delivery tool test from the Gently CLI. Please ignore.
